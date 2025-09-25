@@ -1,0 +1,2 @@
+## 📝 Resumen-base de datos
+Aquí se almacena toda la documentación técnica y de diseño. Encontrarás información detallada sobre la arquitectura del sistema, la metodología de desarrollo, los requisitos del proyecto (funcionales y no funcionales) y la documentación de los endpoints de la API. Esta carpeta es esencial para la coherencia y la escalabilidad del proyecto, sirviendo como una guía de referencia para cualquier desarrollador.

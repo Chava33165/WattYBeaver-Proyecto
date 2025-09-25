@@ -1,0 +1,2 @@
+## 📝 Resumen-base de datos
+Este directorio se dedica a la gestión de la base de datos. Contiene los esquemas de las tablas (esquemas.sql), scripts para la inserción de datos de prueba iniciales (seeds.sql) y los scripts de migración de la base de datos. Es fundamental para el correcto funcionamiento del backend, ya que define cómo se almacenarán y estructurarán los datos del consumo energético.

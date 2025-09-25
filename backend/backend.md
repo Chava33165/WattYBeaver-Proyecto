@@ -1,0 +1,2 @@
+## 📝 Resumen-backend
+Este directorio alberga todo el código fuente del servidor, desarrollado en Node.js. La estructura modular facilita la organización del código, separando la lógica en controladores, modelos, rutas y utilidades. Además, incluye directorios para pruebas unitarias (tests/) y archivos de configuración (config/), asegurando un entorno de desarrollo robusto y mantenible.

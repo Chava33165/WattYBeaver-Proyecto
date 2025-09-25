@@ -1,0 +1,2 @@
+## 📝 Resumen-FRONT
+Contiene el código del cliente, incluyendo archivos HTML, CSS y JavaScript. La estructura de componentes permite la reutilización de código y la creación de interfaces de usuario escalables. Aquí encontrarás las páginas principales del tablero, los estilos visuales y la lógica del lado del cliente, todo diseñado para una experiencia de usuario fluida e interactiva.

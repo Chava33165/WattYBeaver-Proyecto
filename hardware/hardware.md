@@ -1,0 +1,2 @@
+## 📝 Resumen-hardware
+En esta carpeta se encuentra toda la información relacionada con los dispositivos físicos (Sonoff) utilizados en el proyecto. Incluye los archivos de firmware y las guías de configuración paso a paso. Es una sección vital para la integración del hardware con el software, ya que asegura que los dispositivos estén correctamente instalados y configurados para comunicarse con el servidor.

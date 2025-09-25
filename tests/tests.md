@@ -1,0 +1,2 @@
+## 📝 Resumen-test
+Aquí se centralizan las pruebas de todo el sistema, organizadas por capas: backend, frontend y hardware. Esta carpeta es esencial para garantizar la calidad y fiabilidad del proyecto, permitiendo la detección temprana de errores y asegurando que cada componente funcione como se espera.

@@ -1,0 +1,2 @@
+## 📝 Resumen-branding
+Contiene todos los activos de diseño y branding del proyecto. Aquí se definen la paleta de colores, la tipografía y otros elementos gráficos como el logotipo. Esta carpeta garantiza la consistencia visual en todas las interfaces, proporcionando una identidad de marca unificada para el dashboard.
